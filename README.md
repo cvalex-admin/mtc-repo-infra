@@ -1,2 +1,1 @@
-# mtc-repo-infra
-infra Code for MTC
+# This [each.key] repository is for infra developer
