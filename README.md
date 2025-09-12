@@ -1,2 +1,1 @@
-# mtc-repo-infra
- terraform Code for MTC with file main.tf
+This is a dev terraform repository is for infra developer
